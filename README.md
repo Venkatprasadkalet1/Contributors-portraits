@@ -22,4 +22,4 @@ It's really easy to do a simple HTML/CSS pull request, so at least indent your c
 - When the job is done, submit a pull request , and that's it !
 
 ## More 
-Feel free to submit ideas by opening issues, or just by submitting pull request. For the moment, this project only supports HTML/CSS-Bootstrap to help beginners. But I'll see later if we can add some JS to it if someone has a nice idea :).
+Feel free to submit ideas by opening issues, or just by submitting pull request. For the moment, this project only supports HTML/CSS-Bootstrap to help beginners. But I'll see later if we can add some JS to it if someone has a nice idea :). Good luck have fun.
